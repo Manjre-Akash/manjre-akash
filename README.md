@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Manjre</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ZzZwDBRQ_8cn-eaLVfm4T&ust=1686901932646000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOiQ8tDlxP8CFQAAAAAdAAAAABAI">
 
 - 🔭 I’m currently working on **Backend development**
 
