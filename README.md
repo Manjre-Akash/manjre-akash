@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Javascript,Python**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are **comming soon on Github Account**
 
 - 💬 Ask me about **Java and its frameworks,DB, HTML, CSS**
 
 - 📫 How to reach me **akashmanjre9@gmail.com**
 
-- 📄 Know about my experiences [...](...)
+- 📄 Know about my experiences  **{Update Soon}**
 
 - ⚡ Fun fact **I love to try newly launched technologies**
 
