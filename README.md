@@ -8,7 +8,7 @@
 * 💬 Ask me about **Java and its frameworks,DB, HTML, CSS**
 * 📫 How to reach me **akashmanjre9@gmail.com**
 * 📄 Know about my experiences  **{Update Soon}**
-* ⚡ Fun fact **I love to try newly launched technologies**
+* ⚡ Fun fact **I love to try newly launched technologies**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
